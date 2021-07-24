@@ -7,24 +7,10 @@ Most of all I like to design and program websites. In my studies I also learned 
 
 # Skills
 
-## High-level programming languages:
-- Swift
-- Java
-- JavaScript
-- Python
-- HTML
-- SCSS
-
-## Templating engines:
-- [Handlebars](https://handlebarsjs.com/)
-- [EJS](https://ejs.co/)
-
-## CMS
-- [Wordpress](https://wordpress.com/de/)
-- [Shopware](https://www.shopware.com/)
-
-## Design
-- [Adobe XD](https://www.adobe.com/)
-- Illustrator
-- other
+| Programming language | Web  | CMS       | Templating Engine | Other         |
+|:----------------------|:------|:-----------|:-------------------|:---------------|
+| Java                 | HTML | [Shopware](https://www.shopware.com/)  | [EJS](https://ejs.co/)             | After Effects |
+| JavaScript           | SCSS | [Wordpress](https://wordpress.com/de/) | [Handlebars](https://handlebarsjs.com/)       | Photoshop     |
+| Python               | CSS  |           |                   | [Adobe XD](https://www.adobe.com/)     |
+| Swift                |      |           |                   | ...           |
 
