@@ -25,5 +25,5 @@ Most of all I like to design and program websites. In my studies I also learned 
 ## Design
 - [Adobe XD](https://www.adobe.com/)
 - Illustrator
-- and other
+- other
 
