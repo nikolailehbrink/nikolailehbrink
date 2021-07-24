@@ -8,6 +8,7 @@ Most of all I like to design and program websites. In my studies I also learned 
 # Skills
 
 ## High-level programming languages:
+- Swift
 - Java
 - JavaScript
 - Python
