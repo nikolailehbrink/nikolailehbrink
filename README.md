@@ -7,7 +7,7 @@ Most of all I like to design and program websites. In my studies I also learned 
 
 # Skills
 
-| Programming language | Web  | CMS       | Templating Engine | Other         |
+| Programming languages | Web  | CMS       | Templating Engine | Other         |
 |:----------------------|:------|:-----------|:-------------------|:---------------|
 | Java                 | HTML | [Shopware](https://www.shopware.com/)  | [EJS](https://ejs.co/)             | After Effects |
 | JavaScript           | SCSS | [Wordpress](https://wordpress.com/de/) | [Handlebars](https://handlebarsjs.com/)       | Photoshop     |
