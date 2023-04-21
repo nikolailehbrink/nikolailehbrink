@@ -1,38 +1,17 @@
-# Hi there, I'm Nikolai! 👋
+# Hi there! 👋
 
-I'm a 26-year-old Web Designer and Developer currently working at a creative agency called [moskito](https://moskito.de). I specialize in crafting beautiful and functional websites using WordPress, and I love developing custom themes to bring unique designs to life. With a degree in Media Informatics, I'm passionate about combining my technical skills with creative problem-solving to tackle any challenge that comes my way. In addition to my full-time job, I also work as a freelancer, creating websites for individuals and businesses alike.
+I'm a 26-year-old Web Designer and Developer currently working at a creative agency called [moskito](https://moskito.de). I specialize in crafting beautiful and functional websites using WordPress, and I love developing custom themes to bring unique designs to life. With a degree in Media Informatics, I'm passionate about combining my technical skills with creative problem-solving to tackle any challenge that comes my way. In addition to my full-time job, I also work as a freelancer, creating websites for individuals and businesses alike. Lately, I've been focusing on developing accessible and barrier-free websites to ensure a seamless browsing experience for everyone.
+
 
 ## 🚀 Skills & Expertise
 
-### Programming languages
-
-- JavaScript
-- Python
-- Swift
-
-### Web
-
-- HTML
-- SCSS
-- CSS
-- Tailwind CSS
-
-### CMS
-
-- [Shopware](https://www.shopware.com/)
-- [WordPress](https://wordpress.com/de/)
-
-### Templating Engine
-
-- [EJS](https://ejs.co/)
-- [Handlebars](https://handlebarsjs.com/)
-
-### Other
-
-- After Effects
-- Photoshop
-- [Adobe XD](https://www.adobe.com/)
-- ...
+| Skill Category        | Skills                                                                    |
+|:----------------------|:--------------------------------------------------------------------------|
+| Programming languages | JavaScript, Python, Swift                                                 |
+| Web                   | HTML, SCSS, CSS, Tailwind CSS                                            |
+| CMS                   | [Shopware](https://www.shopware.com/), [WordPress](https://wordpress.com/de/) |
+| Templating Engine     | [EJS](https://ejs.co/), [Handlebars](https://handlebarsjs.com/)          |
+| Other                 | After Effects, Photoshop, [Adobe XD](https://www.adobe.com/), ...        |
 
 ## 🌐 Work Experience
 
