@@ -6,10 +6,10 @@ I'm a 26-year-old Web Developer based in Germany, currently undertaking a specia
 
 | Skill Category        | Skills                                                                    |
 |:----------------------|:--------------------------------------------------------------------------|
-| Programming languages | JavaScript (React, Next.js), Python, Swift                                |
-| Web Technologies      | HTML, SCSS, CSS, Tailwind CSS                                             |
-| CMS                   | [Shopware](https://www.shopware.com/), WordPress                         |
-| Development Tools     | Visual Studio Code, Adobe Creative Cloud, Xcode                           |
+| Programming languages | JavaScript (React, Next.js), PHP                                          |
+| Web Technologies      | HTML, CSS, Tailwind CSS                                                   |
+| CMS                   | Shopware, WordPress                                                       |
+| Development Tools     | Visual Studio Code, Adobe Creative Cloud                                  |
 | Other                 | UI/UX Design, Responsive Web Design                                       |
 
 ## 🛠️ Professional Journey
@@ -18,7 +18,7 @@ I'm a 26-year-old Web Developer based in Germany, currently undertaking a specia
 - Gained experience developing a Next.js application using the OpenAI API
 - Specialized in WordPress theme development and content management
 
-**Wordpress-Developer** - _Jung&Billig GmbH _
+**Wordpress-Developer** - _Jung&Billig GmbH_
 - Responsible for the development and completion of websites and online stores using WordPress
 - Worked closely with clients to understand their vision and requirements, ensuring each project was tailored to their specific needs
 
@@ -29,10 +29,3 @@ I'm a 26-year-old Web Developer based in Germany, currently undertaking a specia
 - Developed foundational skills in Java, C++, and Python
 
 
-## 📫 Connect with Me
-
-Keen on discussing web development or just want to share insights? Feel free to reach out!
-
-
-- [LinkedIn](https://www.linkedin.com/in/nikolailehbrink/)
-- [Email](mailto:mail@nikolailehbr.ink)
