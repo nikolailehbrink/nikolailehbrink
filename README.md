@@ -1,38 +1,38 @@
 # Hi there! 👋
 
-I'm a 26-year-old Web Designer and Developer currently working at a creative agency called [moskito](https://moskito.de). I specialize in crafting beautiful and functional websites using WordPress, and I love developing custom themes to bring unique designs to life. With a degree in Media Informatics, I'm passionate about combining my technical skills with creative problem-solving to tackle any challenge that comes my way. In addition to my full-time job, I also work as a freelancer, creating websites for individuals and businesses alike. Lately, I've been focusing on developing accessible and barrier-free websites to ensure a seamless browsing experience for everyone.
-
+I'm a 26-year-old Web Developer based in Germany, currently undertaking a specialized training in React and Next.js. My academic background includes a Bachelor's degree in Media Informatics. Initially focusing on WordPress site creation and content management at a creative agency, I've recently shifted my attention towards modern frontend development technologies, with a keen interest in integrating AI into performant web applications.
 
 ## 🚀 Skills & Expertise
 
 | Skill Category        | Skills                                                                    |
 |:----------------------|:--------------------------------------------------------------------------|
-| Programming languages | JavaScript, Python, Swift                                                 |
-| Web                   | HTML, SCSS, CSS, Tailwind CSS                                            |
-| CMS                   | [Shopware](https://www.shopware.com/), [WordPress](https://wordpress.com/de/) |
-| Templating Engine     | [EJS](https://ejs.co/), [Handlebars](https://handlebarsjs.com/)          |
-| Other                 | After Effects, Photoshop, [Adobe XD](https://www.adobe.com/), ...        |
+| Programming languages | JavaScript (React, Next.js), Python, Swift                                |
+| Web Technologies      | HTML, SCSS, CSS, Tailwind CSS                                             |
+| CMS                   | [Shopware](https://www.shopware.com/), WordPress                         |
+| Development Tools     | Visual Studio Code, Adobe Creative Cloud, Xcode                           |
+| Other                 | UI/UX Design, Responsive Web Design                                       |
 
-## 🌐 Work Experience
+## 🛠️ Professional Journey
 
-**Web Designer & Developer** - _moskito GmbH & Co. KG_
-- Develop custom WordPress themes for clients
-- Collaborate with the design team to create visually appealing and functional websites
-- Optimize website performance and responsiveness
+**Web Developer** - _moskito GmbH & Co. KG_
+- Gained experience developing a Next.js application using the OpenAI API
+- Specialized in WordPress theme development and content management
 
-**Freelance Web Designer & Developer** - _Self-Employed_
-- Design and develop websites for individuals and businesses
-- Manage projects from concept to completion, ensuring client satisfaction
+**Wordpress-Developer** - _Jung&Billig GmbH _
+- Responsible for the development and completion of websites and online stores using WordPress
+- Worked closely with clients to understand their vision and requirements, ensuring each project was tailored to their specific needs
 
 ## 🎓 Education
 
 **Bachelor of Science in Media Informatics** - _Hochschule Bremen_ (2021)
-- Specialized in web design, web development, and human-computer interaction
-- Gained experience in programming languages such as Java, C++, and Python
+- Concentrated in web design and development, human-computer interaction
+- Developed foundational skills in Java, C++, and Python
 
-## 📫 Get in Touch
 
-Feel free to reach out if you'd like to collaborate on a project or just want to say hi! You can find me on:
+## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/nikolai-lehbrink-100787224/)
+Keen on discussing web development or just want to share insights? Feel free to reach out!
+
+
+- [LinkedIn](https://www.linkedin.com/in/nikolailehbrink/)
 - [Email](mailto:mail@nikolailehbr.ink)
