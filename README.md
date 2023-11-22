@@ -1,3 +1,5 @@
+![Header-Banner](header-banner.png?raw=true)
+
 # Hi there! 👋
 
 I'm a 26-year-old Web Developer based in Germany, currently undertaking a specialized training in React and Next.js. My academic background includes a Bachelor's degree in Media Informatics. Initially focusing on WordPress site creation and content management at a creative agency, I've recently shifted my attention towards modern frontend development technologies, with a keen interest in integrating AI into performant web applications.
