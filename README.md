@@ -2,7 +2,7 @@
 
 # 🤝 Moin moin!
 
-I am a 27-year-old web developer and designer based in Germany, specialising in the React ecosystem. Initially focused on WordPress website creation and content management at a creative agency and as a freelancer, I've recently shifted my attention to modern frontend development, with a big interest in integrating AI into high performance web applications.
+I am a 27-year-old web developer and designer specialising in the React ecosystem. Initially focused on WordPress website creation and content management at a creative agency and as a freelancer, I've recently shifted my attention to modern frontend development, with a big interest in integrating AI into high performance web applications.
 
 ## 👨‍💻 Passion
 
