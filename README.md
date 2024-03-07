@@ -1,22 +1,14 @@
-[![Header-Banner](header-banner.png?raw=true)](https://nikolailehbr.ink)
+[![HeaderImage](https://github.com/nikolailehbrink/nikolailehbrink/assets/38915700/e22cc986-a13f-4ab3-884a-effb7777fca2)](https://nikolailehbr.ink)
 
-# Moin moin! 👋
+# 🤝 Moin moin!
 
-I'm a 26-year-old Web Developer based in Germany, currently undertaking a specialized training in React and Next.js. Initially focusing on WordPress site creation and content management at a creative agency, I've recently shifted my attention towards modern frontend development technologies, with a keen interest in integrating AI into performant web applications.
+I am a 27-year-old web developer and designer based in Germany, specialising in the React ecosystem. Initially focused on WordPress website creation and content management at a creative agency and as a freelancer, I've recently shifted my attention to modern frontend development, with a big interest in integrating AI into high performance web applications.
 
-## 👨‍💻 Skills & Expertise
+## 👨‍💻 Passion
 
-| Skill Category        | Skills                                                                    |
-|:----------------------|:--------------------------------------------------------------------------|
-| Programming languages | JavaScript (React, Next.js), PHP                                          |
-| Web Technologies      | HTML, CSS, Tailwind CSS                                                   |
-| CMS                   | Shopware, WordPress                                                       |
-| Development Tools     | Visual Studio Code, Adobe Creative Cloud                                |
+About 6 years ago I made my first website as a term paper for my studies. It was my first introduction to HTML and CSS, and I understood how to develop a very simple website.
 
-## 🎓 Education
+It consisted of a single image, a headline, two paragraphs of text and a large background gradient across the whole page - but as small as it was and as unsightly as it looked, I had a blast creating it. And thus found a new passion.
 
-**Bachelor of Science in Media Informatics** - _Hochschule Bremen_ (2021)
-- Concentrated in web design and development, human-computer interaction
-- Developed foundational skills in Java, C++, and Python
-
+You can find more info about me and what I have learned over the years on my [website](https://www.nikolailehbr.ink).
 
